@@ -6,11 +6,9 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Frontend development
-- 🌱 I’m currently learning Full stack web design
-- 👯 I’m looking to collaborate on web design
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: 07037341019
+- 🌱 I’m currently learning TailWind Css
+- 👯 I’m looking to collaborate on web designs projects
+- 📫 How to reach me: +2348151659840
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: I am a junior frontend developer
 -->
