@@ -8,4 +8,4 @@ Hello there✋🏾
 - 👯‍♀️ I’m looking to collaborate on web design projects 
 - 📫 How to reach me: +2348151659840/https://www.linkedin.com/in/tobi-williams-562721210/
 - 😄 Pronouns: she/her
-- Here is my portfolio: tobiwilliams22.netlify.app
+- Here is my portfolio:https://tobiwilliams22.netlify.app/
